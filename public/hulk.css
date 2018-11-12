@@ -1,0 +1,21 @@
+.body{
+    background: linear-gradient(to right, rgba(9, 122, 58, 1)  0%, rgba(15, 162, 48, 1) 44%, rgba(24, 96, 59, 1) 100%) no-repeat center center fixed;
+}
+
+.container-top {
+    background: linear-gradient(to right, rgba(60, 175, 72, 1) 0%, rgba(90, 205, 102, 1) 100%);
+}
+.side-img {
+    background: url('./hulk.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.submit {
+    background: #D7233C;
+}
+
+.simple-select {
+    background: url('./green-arrow.png') no-repeat 95% center;
+    background-size: 15px 15px;
+}

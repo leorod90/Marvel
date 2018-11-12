@@ -1,0 +1,21 @@
+.body{
+    background: linear-gradient(to right, rgba(0, 5, 154, 1) 0%, rgba(43, 43, 247, 1) 44%, rgba(53, 41, 163, 1) 100%) no-repeat center center fixed;
+}
+
+.container-top {
+    background: linear-gradient(to right, rgba(2, 40, 185, 1) 0%, rgba(53, 41, 163, 1) 100%);
+}
+.side-img {
+    background: url('./america2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.submit {
+    background: #D7233C;
+}
+
+.simple-select {
+    background: url('./blue-arrow.png') no-repeat 95% center;
+    background-size: 15px 15px;
+}

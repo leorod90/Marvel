@@ -1,0 +1,21 @@
+.body{
+    background: linear-gradient(to right, rgba(165, 25, 46, 1) 0%, rgba(173, 27, 47, 1) 44%, rgba(127, 13, 21, 1) 100%) no-repeat center center fixed;
+}
+
+.container-top {
+    background: linear-gradient(to right, rgba(189, 33, 52, 1) 0%, rgba(196, 33, 55, 1) 100%);
+}
+.side-img {
+    background: url('./Spider-Man.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.submit {
+    background: #D7233C;
+}
+
+.simple-select {
+    background: url('./red-arrow.png') no-repeat 95% center;
+    background-size: 15px 15px;
+}
